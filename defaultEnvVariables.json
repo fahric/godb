@@ -1,0 +1,8 @@
+{
+  "Environment":"ci",
+  "Database":"dbMergermarket2002",
+  "Port":"7204",
+  "Server":"GBR-DEV-CIDB01",
+  "Userid":"AuthenticationService",
+  "Password":"AuthenticationService"
+}
